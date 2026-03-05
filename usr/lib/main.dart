@@ -69,6 +69,15 @@ class _TeamNameGeneratorScreenState extends State<TeamNameGeneratorScreen> {
     'Impact Innovators',
     'Legacy Leaders',
     'Fortune Finders',
+    // New T-based Performance Names
+    'The Titans',
+    'Top Tier Traders',
+    'Total Triumph',
+    'Turbo Chargers',
+    'Tenacity Team',
+    'Traction Titans',
+    'Target Toppers',
+    'The Trailblazers',
   ];
 
   String _featuredName = 'Tap to Generate';
